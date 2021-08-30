@@ -57,7 +57,7 @@ Para usar <unyleya-serve>, siga estas etapas:
 E para popular o banco digite
   
  ``` 
-<php artisan make:seeder>
+<php artisan make:seed>
  ```
 
 
