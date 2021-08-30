@@ -21,11 +21,10 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o <unyleya-serve>, siga estas etapas:
 
- *Instale o Laragon apenas clicando em avançar.
- *Instale o Composer 'observe que o caminho de instação será o que o laragon foi instalado' caso esteja sem nada vá ao seguinte caminho
-   `<C:\laragon\bin\php\php-7.4.19-Win32-vc15-x64>` e selecione o php.exe
- *Instale o HeidiSQL apenas clicando em avançar.
- *Instale o Postman apenas clicando em avançar.
+ * Instale o Laragon apenas clicando em avançar.
+ * Instale o Composer 'observe que o caminho de instação será o que o laragon foi instalado' caso esteja sem nada vá ao seguinte caminho `<C:\laragon\bin\php\php-7.4.19-Win32-vc15-x64>` e selecione o php.exe
+ * Instale o HeidiSQL apenas clicando em avançar.
+ * Instale o Postman apenas clicando em avançar.
   
   
  ```
