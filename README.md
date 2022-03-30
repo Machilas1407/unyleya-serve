@@ -17,7 +17,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de `<Laragon / Composer / HeidiSQL / Postman >`
 * Você tem uma máquina `<Windows>`. 
 
-## 🚀 Instalando `<unyleya-serve>`
+## 🚀 Instalando `<unyleya-serve>`.
 
 Para instalar o `<unyleya-serve>`, siga primeiro esta etapa:
 
@@ -44,21 +44,21 @@ Próxima etapa:
   * Digite cd unyleya-serve\api-laravel\
   
 
-## ☕ Usando `<unyleya-serve>
+## ☕ Usando `<unyleya-serve>`.
 
-Para usar <unyleya-serve>, siga estas etapas:
+Para usar `<unyleya-serve>`, siga estas etapas:
   
  Com o terminal aberto digite
 
-```
+`
 <php artisan migrate:refresh>
-```
+`
   
 E para popular o banco digite
   
- ``` 
+ `
 <php artisan make:seed>
- ```
+ `.
 
 
 
