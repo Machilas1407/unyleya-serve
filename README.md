@@ -17,9 +17,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de `<Laragon / Composer / HeidiSQL / Postman >`
 * Você tem uma máquina `<Windows>`. 
 
-## 🚀 Instalando <unyleya-serve>
+## 🚀 Instalando `<unyleya-serve>`
 
-Para instalar o <unyleya-serve>, siga primeiro esta etapa:
+Para instalar o `<unyleya-serve>`, siga primeiro esta etapa:
 
  * Instale o Laragon apenas clicando em avançar.
  * Instale o Composer 'observe que o caminho de instação será o que o laragon foi instalado' caso esteja sem nada vá ao seguinte caminho `<C:\laragon\bin\php\php-7.4.19-Win32-vc15-x64>` e selecione o php.exe
@@ -44,7 +44,7 @@ Próxima etapa:
   * Digite cd unyleya-serve\api-laravel\
   
 
-## ☕ Usando <unyleya-serve>
+## ☕ Usando `<unyleya-serve>
 
 Para usar <unyleya-serve>, siga estas etapas:
   
